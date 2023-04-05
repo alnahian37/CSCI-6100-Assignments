@@ -1,4 +1,0 @@
-https://github.com/niuers/Learning-From-Data-A-Short-Course/blob/master/Solutions%20to%20Chapter%201%20The%20Learning%20Problem.ipynb
-
-
-https://github.com/ppaquay/Learning-from-Data-Solutions
